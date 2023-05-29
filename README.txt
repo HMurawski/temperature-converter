@@ -1,0 +1,3 @@
+Temperature Converter: Celsius to Fahrenheit and Fahrenheit to Celsius
+
+A temperature converter is a tool that allows you to convert temperatures from one unit of measurement to another. One commonly used conversion is between Celsius (°C) and Fahrenheit (°F).Using a temperature converter, you can easily switch between Celsius and Fahrenheit measurements, allowing for convenient temperature conversions in various applications, such as cooking, weather forecasting, and scientific calculations.
